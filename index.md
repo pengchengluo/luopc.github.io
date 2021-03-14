@@ -21,3 +21,7 @@ BgRemover <a href="https://www.aigei.com/bgremover">https://www.aigei.com/bgremo
 ### Excel读写工具
 <a href="https://openpyxl.readthedocs.io/en/stable/">openpyxl</a>:适用于xlsx  
 参考来源:<a href="http://www.python-excel.org/">http://www.python-excel.org/</a>
+
+
+## 论文
+[Dataset Search](./papers/dataset_search.md)
