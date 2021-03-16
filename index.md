@@ -29,3 +29,6 @@ BgRemover <a href="https://www.aigei.com/bgremover">https://www.aigei.com/bgremo
 
 ## 开放学术资源
 [开放期刊资源](./open_resources/open_journal_resources.md)
+
+## 学习资料
+[写作学习](./writing_skills/writing_skills_learn_material.md)
