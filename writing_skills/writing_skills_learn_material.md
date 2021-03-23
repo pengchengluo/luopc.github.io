@@ -5,3 +5,10 @@
 ### 实现原型系统
 * To study the efficiency of our algorithm, which we name Window Variation Keyword Burst Detection, we implement a ***proof-of-concept system***.
 
+
+### 连词
+* The main result confirms what we previously noted [22,23], that is, ***in spite of*** a growing trend of ORD publication, most of them are **scarcely** used, ***albeit*** with some differences between the disciplinary fields.
+
+
+### 总结
+* ***All in all***, a concentration of usage over few datasets was observed, in an unbalanced situation where most ORD are never consulted once published.
