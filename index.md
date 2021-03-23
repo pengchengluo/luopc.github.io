@@ -24,8 +24,8 @@ BgRemover <a href="https://www.aigei.com/bgremover">https://www.aigei.com/bgremo
 
 
 ## 论文
+[Dataset Metadata](./papers/dataset_metadata.md)
 [Dataset Search](./papers/dataset_search.md)
-
 
 ## 开放学术资源
 [开放期刊资源](./open_resources/open_journal_resources.md)
