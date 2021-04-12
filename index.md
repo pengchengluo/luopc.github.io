@@ -32,3 +32,6 @@ BgRemover <a href="https://www.aigei.com/bgremover">https://www.aigei.com/bgremo
 
 ## 学习资料
 [写作学习](./writing_skills/writing_skills_learn_material.md)
+
+## 信息检索
+[信息检索](./ir.md)
