@@ -1,3 +1,5 @@
+[TREC相关性判断文件及格式](https://trec.nist.gov/data/qrels_eng/index.html)
+
 [SIGIR](https://dl.acm.org/action/doSearch?target=browse-proceedings-specific&ConceptID=118222&ConceptID=121219)  
 [全国信息检索学术会议 CCIR2020](http://www.cvnis.net/ccir2020/article_accepted.html)  
 [Research Frontiers in Information Retrieval: Report from the Third Strategic Workshop on Information Retrieval in Lorne (SWIRL 2018)](https://sigir.org/wp-content/uploads/2018/07/p034.pdf)  
