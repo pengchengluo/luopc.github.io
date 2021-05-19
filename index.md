@@ -35,3 +35,6 @@ BgRemover <a href="https://www.aigei.com/bgremover">https://www.aigei.com/bgremo
 
 ## 信息检索
 [信息检索](./ir.md)
+
+## linux CMD
+[Linux CMD](./linux.md)
