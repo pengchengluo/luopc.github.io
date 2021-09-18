@@ -41,4 +41,5 @@ BgRemover <a href="https://www.aigei.com/bgremover">https://www.aigei.com/bgremo
 
 ## 文本匹配
 [PaddleNLP text match](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples/text_matching)  
-[万方应用](https://posts.careerengine.us/p/613ea36d5062182e27b98647?from=marquee)
+[万方应用](https://posts.careerengine.us/p/613ea36d5062182e27b98647?from=marquee)  
+[CLUE](https://github.com/CLUEbenchmark/CLUEDatasetSearch#%E6%96%87%E6%9C%AC%E5%8C%B9%E9%85%8D)
