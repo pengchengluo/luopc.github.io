@@ -12,3 +12,15 @@ iptables -I INPUT -s 211.211.211.211 -p tcp --dport 8080 -j ACCEPT
 保存当前规则  
 /etc/rc.d/init.d/iptables save service iptables restart  
 参考(https://tsov.net/uupee/24435/)
+
+## Ubuntu firewall-cmd命令
+
+查看防火墙状态：firewall-cmd --state
+
+查看防火墙：firewall-cmd --list-all
+
+更新防火墙规则：firewall-cmd --reload
+
+增加80端口，永久生效
+firewall-cmd --add-port=80/tcp --permanent
+firewall-cmd --reload
